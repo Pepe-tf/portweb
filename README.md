@@ -3,7 +3,7 @@
 PortWeb is a website project powered by Node.js and Express. It includes several pages such as the home page, about page, bots page, blog page, and cats page.
 
 ## Table of Contents
-- [Pages](#screenshot)
+- [Demo](#Demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](https://github.com/Pepe-tf/portweb/blob/main/LICENSE)
@@ -11,53 +11,9 @@ PortWeb is a website project powered by Node.js and Express. It includes several
 ## About
 PortWeb is a website project designed to showcase of thing I can do and other may contact me.
 
-## screenshot
+## Demo
 
-<details>
-      <summary>
-          Home page
-      </summary>
-      <br />
-      <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
-      </p>
-</details>
-<details>
-      <summary>
-          About page
-      </summary>
-      <br />
-      <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
-      </p>
-</details>
-<details>
-      <summary>
-          Bots page
-      </summary>
-      <br />
-      <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
-      </p>
-</details>
-<details>
-      <summary>
-          Blog page
-      </summary>
-      <br />
-      <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
-      </p>
-</details>
-<details>
-      <summary>
-          Cat page
-      </summary>
-      <br />
-      <p align="center">
-          <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
-      </p>
-</details>
+You can view a live demo of the project [here](https://me.billhubs.xyz).
 
 ## Installation
 To install and run the project locally, follow these steps:
