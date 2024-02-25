@@ -21,6 +21,8 @@ PortWeb is a website project designed to showcase of thing I can do and other ma
       <p align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
       </p>
+</details>
+<details>
       <summary>
           About page
       </summary>
@@ -28,6 +30,8 @@ PortWeb is a website project designed to showcase of thing I can do and other ma
       <p align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
       </p>
+</details>
+<details>
       <summary>
           Bots page
       </summary>
@@ -35,6 +39,8 @@ PortWeb is a website project designed to showcase of thing I can do and other ma
       <p align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
       </p>
+</details>
+<details>
       <summary>
           Blog page
       </summary>
@@ -42,6 +48,8 @@ PortWeb is a website project designed to showcase of thing I can do and other ma
       <p align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
       </p>
+</details>
+<details>
       <summary>
           Cat page
       </summary>
@@ -49,7 +57,7 @@ PortWeb is a website project designed to showcase of thing I can do and other ma
       <p align="center">
           <img src="https://github-profile-trophy.vercel.app/?username=Pepe-tf&theme=dracula" />
       </p>
-  </details>
+</details>
 
 ## Installation
 To install and run the project locally, follow these steps:
