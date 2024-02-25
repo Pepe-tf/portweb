@@ -5,41 +5,62 @@ PortWeb is a website project powered by Node.js and Express. It includes several
 ## Table of Contents
 - [About](#about)
 - [Pages](#pages)
-  - [Home Page](#home-page)
-  - [About Page](#about-page)
-  - [Bots Page](#bots-page)
-  - [Blog Page](#blog-page)
-  - [Cats Page](#cats-page)
+  - [Home Page](https://me.billhubs.xyz)
+  - [About Page](https://me.billhubs.xyz/about)
+  - [Bots Page](https://me.billhubs.xyz/bots)
+  - [Blog Page](https://me.billhubs.xyz/blog)
+  - [Cats Page](https://me.billhubs.xyz/cat)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
+- [License](https://github.com/Pepe-tf/portweb/blob/main/LICENSE)
 
 ## About
-PortWeb is a website project designed to showcase various pages and functionalities.
-
-## Pages
-
-### Home Page
-[Describe the content and purpose of the home page.]
-
-### About Page
-[Describe the content and purpose of the about page.]
-
-### Bots Page
-[Describe the content and purpose of the bots page.]
-
-### Blog Page
-[Describe the content and purpose of the blog page.]
-
-### Cats Page
-[Describe the content and purpose of the cats page.]
+PortWeb is a website project designed to showcase of thing I can do and other may contact me.
 
 ## Installation
 To install and run the project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/PortWeb.git
+   git clone https://github.com/Pepe-tf/portweb
    ```
+2. **Navigate to the project directory:**
+    ```bash
+    cd PortWeb
+    ```
+3. **Install dependencies:**
+    ```bash
+    npm install
+    ```
+4. **Set up configuration:**
+   ```javascript
+   module.exports = {
+     port: 8080, //website port replace this with what ever port you want.
+     discordWebhookConfig: {
+       url: 'DISCORD_WEBHOOK_URL', //replace this with your discord webhook.
+       defaultUsername: 'DefaultUsername', //replace this with your webhook name.
+       defaultAvatarUrl: 'DefaultAvatarUrl', //replace this with your profile url.
+     },
+   };
+   ```
+
+# Usage
+
+After installing dependencies and setting up the configuration, you can start the server by running:
+
+```bash
+node .
+```
+or 
+```bash
+node index.js
+```
+
+The website will be accessible at http://localhost:8080 by default.
+
+# Support
+If you every haveing problem this any of mine project please contact me at: 
+
+- [@Bill_Hub](https://discord.com/users/640512148786642947)
+- [Discord server](https://discord.gg/R9DFaHACv5)
+- [Website](https://zaq.billhubs.xyz)
